@@ -5,7 +5,7 @@ The objective of this project is to build an interactive Power BI dashboard for 
 
 ## How I imported the data into aiven
 
-1. created a postgreSQL  service on Aiven.
+1. Created a postgreSQL  service on Aiven.
 2. Downloaded the CA certificate from Aiven.
 3. Installed the certificate on windows in the Trusted Root Certification Authorities stores.
 4. Used DBeaver to connect to Aiven and imported the raw dataset.
@@ -19,7 +19,7 @@ The objective of this project is to build an interactive Power BI dashboard for 
 5. Connect and load the table.
 
 ## The measures and calculations I used
-The measures include
+The measures include;
 1. Total revenue
 2. Total Units Sold
 3. Total Orders
@@ -27,7 +27,7 @@ The measures include
 5. Gross Profit Margin
 6. Avg Delivery Days
 7. Avg Rating.
-   calculations include
+The calculations include;
 1. Sum
 2. Countrows
 3. Divide
@@ -59,5 +59,6 @@ The measures include
 4. Github
 
 
-
+ARTICLE LINK
+https://dev.to/elizabeth_njoroge_7c850b9/-connecting-power-bi-to-sql-databases-3k7l
 
